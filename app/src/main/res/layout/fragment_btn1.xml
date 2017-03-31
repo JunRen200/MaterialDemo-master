@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <android.support.v7.widget.CardView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:lineSpacingExtra="8dp"
+            android:text="头像控件的滑动行为是自定义的类头像控件的滑动行为是自定义的类头像控件的滑动行为是自定义的类头像控件的滑动行为是自定义的类头像控件的滑动行为是自定义的类头像控件的滑动行为是自定义的类头像控件的滑动行为是自定义的类头像控件的滑动行为是自定义的类头像控件的滑动行为是自定义的类头像控件的滑动行为是自定义的类头像控件的滑动行为是自定义的类头像控件的滑动行为是自定义的类头像控件的滑动行为是自定义的类头像控件的滑动行为是自定义的类头像控件的滑动行为是自定义的类头像控件的滑动行为是自定义的类头像控件的滑动行为是自定义的类头像控件的滑动行为是自定义的类头像控件的滑动行为是自定义的类头像控件的滑动行为是自定义的类头像控件的滑动行为是自定义的类头像控件的滑动行为是自定义的类, 具体行为参考注释. 判断起始和终止位置, child和dependency视图联动, 这里是图像视图和Toolbar联动." />
+
+    </android.support.v7.widget.CardView>
+</LinearLayout>
